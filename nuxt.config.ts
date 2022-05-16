@@ -26,6 +26,7 @@ export default defineNuxtConfig({
 
   unocss: {
     uno: false,
+    attributify: true,
     icons: {
       extraProperties: {
         display: 'inline-block',
